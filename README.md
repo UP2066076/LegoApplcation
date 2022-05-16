@@ -28,6 +28,8 @@ Lego bricks selling website
 
 ## Documentation
 
+- Used ajax only for social media icons, and for nothing else.
+
 - Have used HTML, CSS and JS with the express library.
 
 - Created a forms to register users.
